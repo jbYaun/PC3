@@ -1,2 +1,4 @@
-package com.examen.pc3.dao;public interface Da {
+package com.examen.pc3.dao;
+
+public interface Dao {
 }
